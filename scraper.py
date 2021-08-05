@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  4 16:26:05 2021
-
-@author: DELL
-"""
-
 #importing all necessary libraries
 from selenium import webdriver
 from selenium.common import exceptions
